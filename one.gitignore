@@ -1,0 +1,3 @@
+*.log             # Ignore all files with the .log extension
+build/            # Ignore the entire "build" directory
+secret.txt        # Ignore the specific file "secret.txt"
